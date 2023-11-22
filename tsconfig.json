@@ -1,8 +1,8 @@
 {
   "compilerOptions": {
+    "target": "es6",
     "module": "commonjs",
-    "target": "esnext",
-    // outras configurações...
+    // "esModuleInterop": true
   },
   "include": ["src"]
 }
