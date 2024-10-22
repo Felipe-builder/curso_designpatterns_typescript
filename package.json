@@ -6,6 +6,7 @@
   "main": "index.js",
   "scripts": {
     "dev": "ts-node-dev --respawn --transpile-only ./src/index.ts",
+    "dp-fact": "ts-node-dev --respawn --transpile-only ./src/design-pattern/01-factory-method/index.ts",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
